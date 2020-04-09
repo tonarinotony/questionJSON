@@ -7,15 +7,15 @@
 			},
 			{
 				"text": "answer2",
-				"false": true
+				"correct": false
 			},
 			{
 				"text": "answer3",
-				"false": true
+				"correct": false
 			},
 			{
 				"text": "answer4",
-				"false": true
+				"correct": false
 			}
 		]
 
