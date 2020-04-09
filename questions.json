@@ -3,19 +3,19 @@
 		"question": "Question?",
 		"answers": [{
 				"text": "answer1",
-				"correct": true
+				"correct": "true"
 			},
 			{
 				"text": "answer2",
-				"correct": false
+				"correct": "false"
 			},
 			{
 				"text": "answer3",
-				"correct": false
+				"correct": "false"
 			},
 			{
 				"text": "answer4",
-				"correct": false
+				"correct": "false"
 			}
 		]
 
