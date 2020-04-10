@@ -20,7 +20,7 @@
 			]
 		},
 		{
-			"question2": "Question2?",
+			"question": "Question2?",
 			"answers": [{
 					"text": "answer5",
 					"correct": "false"
