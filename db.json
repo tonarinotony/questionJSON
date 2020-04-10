@@ -1,7 +1,7 @@
 {
 	"questions": [{
 			"question": "Question?",
-			"picture": "https://my-json-server.typicode.com/tonarinotony/questionJSON/question1.png",
+			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
 			"answers": [{
 					"text": "answer1",
 					"correct": "true"
