@@ -52,6 +52,27 @@
 			"question": "Question4",
 			"type":"fillIn",
 			"answer" : "a"
+		},
+		{
+			"question": "Which of these is proper form of INLINE CSS Styling",
+			"type":"imageMC",
+			"answers": [{
+					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE1.PNG",
+					"correct": "false"
+				},
+				{
+					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE2.PNG",
+					"correct": "false"
+				},
+				{
+					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE3.PNG",
+					"correct": "false"
+				},
+				{
+					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE4.PNG",
+					"correct": "true"
+				}
+			]
 		}
 	]
 }
