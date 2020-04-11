@@ -1,5 +1,27 @@
 {
-	"questions": [{
+	"questions": [
+		{
+			"question": "Which of these is proper form of INLINE CSS Styling",
+			"type":"imageMC",
+			"answers": [{
+					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE1.PNG",
+					"correct": "true"
+				},
+				{
+					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE2.PNG",
+					"correct": "false"
+				},
+				{
+					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE3.PNG",
+					"correct": "false"
+				},
+				{
+					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE4.PNG",
+					"correct": "false"
+				}
+			]
+		},
+		{
 			"question": "Question?",
 			"type":"mc",
 			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
@@ -52,27 +74,6 @@
 			"question": "Question4",
 			"type":"fillIn",
 			"answer" : "a"
-		},
-		{
-			"question": "Which of these is proper form of INLINE CSS Styling",
-			"type":"imageMC",
-			"answers": [{
-					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE1.PNG",
-					"correct": "true"
-				},
-				{
-					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE2.PNG",
-					"correct": "false"
-				},
-				{
-					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE3.PNG",
-					"correct": "false"
-				},
-				{
-					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE4.PNG",
-					"correct": "false"
-				}
-			]
 		},
 		{
 			"question": "Question6",
