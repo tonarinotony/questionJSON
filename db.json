@@ -241,32 +241,32 @@
 		},
 		{
 			"question": "What goes in the place of --4--",
-			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"picture": "https://tonarinotony.github.io/questionJSON/question2.PNG",
 			"type":"fillIn",
 			"answer" : "innerHTML"
 		},
 		{
 			"question": "What goes in the place of --2--",
-			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"picture": "https://tonarinotony.github.io/questionJSON/question2.PNG",
 			"type":"fillIn",
 			"answer" : "fetch"
 		},
 		{
 			"question": "What goes in the place of --3--",
-			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"picture": "https://tonarinotony.github.io/questionJSON/question2.PNG",
 			"type":"fillIn",
 			"answer" : "await"
 		},
 		{
 			"question": "What goes in the place of --1--",
-			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"picture": "https://tonarinotony.github.io/questionJSON/question2.PNG",
 			"type":"fillIn",
 			"answer" : "await"
 		},
 		{
 			"question": "What is the purpose of this function",
 			"type":"mc",
-			"picture":"https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"picture":"https://tonarinotony.github.io/questionJSON/question2.PNG",
 			"answers": [{
 					"text": "To load some pictures from the database",
 					"correct": "false"
