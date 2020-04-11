@@ -1,15 +1,15 @@
 {
 	"questions": [{
 		"question": "Question1",
-		"answer" : "ANSWER"
+		"answer" : "a"
 	},
 	{
 		"question": "Question2",
-		"answer" : "ANSWER"
+		"answer" : "a"
 	},
 	{
 		"question": "Question3",
-		"answer" : "ANSWER"
+		"answer" : "a"
 	}
 	]
 }
