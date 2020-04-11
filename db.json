@@ -1,6 +1,7 @@
 {
 	"questions": [{
 			"question": "Question?",
+			"type":"mc",
 			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
 			"answers": [{
 					"text": "answer1",
@@ -22,6 +23,8 @@
 		},
 		{
 			"question": "Question2?",
+			"type":"mc",
+			"picture":"",
 			"answers": [{
 					"text": "answer5",
 					"correct": "false"
@@ -39,6 +42,11 @@
 					"correct": "true"
 				}
 			]
+		},
+		{
+			"question": "Question2",
+			"type":"fillIn",
+			"answer" : "a"
 		}
 	]
 }
