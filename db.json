@@ -84,6 +84,207 @@
 			"question": "<--1--> What is the tag for an unordered/bullet list in HTML",
 			"type":"fillIn",
 			"answer" : "ul"
+		},
+		{
+			"question": "What does CSS stand for",
+			"type":"mc",
+			"picture":"",
+			"answers": [{
+					"text": "Computer Style Sheets",
+					"correct": "false"
+				},
+				{
+					"text": "Computer Styling Sheets",
+					"correct": "false"
+				},
+				{
+					"text": "Cascading Style Sheets",
+					"correct": "true"
+				},
+				{
+					"text": "Cascading Styling Sheets",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "What does HTML stand for",
+			"type":"mc",
+			"picture":"",
+			"answers": [{
+					"text": "HTML",
+					"correct": "false"
+				},
+				{
+					"text": "HyperText Markup Language",
+					"correct": "true"
+				},
+				{
+					"text": "Human To Machine Language",
+					"correct": "false"
+				},
+				{
+					"text": "HyperText Marking Language",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "What is used to create templates",
+			"type":"mc",
+			"picture":"",
+			"answers": [{
+					"text": "Bootstrap",
+					"correct": "false"
+				},
+				{
+					"text": "Flask",
+					"correct": "false"
+				},
+				{
+					"text": "Homebrew",
+					"correct": "false"
+				},
+				{
+					"text": "Handlebars",
+					"correct": "true"
+				}
+			]
+		},
+		{
+			"question": "Which of these is NOT a bootstrap base color",
+			"type":"mc",
+			"picture":"",
+			"answers": [{
+					"text": "Warning",
+					"correct": "false"
+				},
+				{
+					"text": "Danger",
+					"correct": "false"
+				},
+				{
+					"text": "Info",
+					"correct": "false"
+				},
+				{
+					"text": "Data",
+					"correct": "true"
+				}
+			]
+		},
+		{
+			"question": "How many sections is the Bootstrap Grid layout made out of",
+			"type":"mc",
+			"picture":"",
+			"answers": [{
+					"text": "12",
+					"correct": "true"
+				},
+				{
+					"text": "9",
+					"correct": "false"
+				},
+				{
+					"text": "15",
+					"correct": "false"
+				},
+				{
+					"text": "24",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which of these symbol is an ID selector in CSS",
+			"type":"mc",
+			"picture":"",
+			"answers": [{
+					"text": "'#'",
+					"correct": "true"
+				},
+				{
+					"text": "'.'",
+					"correct": "false"
+				},
+				{
+					"text": "'*'",
+					"correct": "false"
+				},
+				{
+					"text": "'!'",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which of these symbol is an Class selector in CSS",
+			"type":"mc",
+			"picture":"",
+			"answers": [{
+					"text": "'#'",
+					"correct": "false"
+				},
+				{
+					"text": "'.'",
+					"correct": "true"
+				},
+				{
+					"text": "'*'",
+					"correct": "false"
+				},
+				{
+					"text": "'!'",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "What goes in the place of --4--",
+			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"type":"fillIn",
+			"answer" : "innerHTML"
+		},
+		{
+			"question": "What goes in the place of --2--",
+			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"type":"fillIn",
+			"answer" : "fetch"
+		},
+		{
+			"question": "What goes in the place of --3--",
+			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"type":"fillIn",
+			"answer" : "await"
+		},
+		{
+			"question": "What goes in the place of --1--",
+			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"type":"fillIn",
+			"answer" : "await"
+		},
+		{
+			"question": "What is the purpose of this function",
+			"type":"mc",
+			"picture":"https://tonarinotony.github.io/questionJSON/question1.PNG",
+			"answers": [{
+					"text": "To load some pictures from the database",
+					"correct": "false"
+				},
+				{
+					"text": "To asynchronously acquire data from the api",
+					"correct": "true"
+				},
+				{
+					"text": "To make a model",
+					"correct": "false"
+				},
+				{
+					"text": "To render a template using Handlebars",
+					"correct": "false"
+				}
+			]
 		}
+
 	]
 }
