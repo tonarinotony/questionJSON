@@ -22,63 +22,68 @@
 			]
 		},
 		{
-			"question": "Question?",
+			"question": "What goes in ---1---",
 			"type":"mc",
 			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
 			"answers": [{
-					"text": "answer1",
+					"text": "!DOCTYPE html",
 					"correct": "true"
 				},
 				{
-					"text": "answer2",
+					"text": "DOC-TYPE html",
 					"correct": "false"
 				},
 				{
-					"text": "answer3",
+					"text": "!DOCTYPE HTML",
 					"correct": "false"
 				},
 				{
-					"text": "answer4",
+					"text": "DOCTYPE html",
 					"correct": "false"
 				}
 			]
 		},
 		{
-			"question": "Question2?",
+			"question": "What does JSON stand for",
 			"type":"mc",
 			"picture":"",
 			"answers": [{
-					"text": "answer5",
+					"text": "Java Script Online Notation",
 					"correct": "false"
 				},
 				{
-					"text": "answer6",
+					"text": "Java Script Original Notation",
 					"correct": "false"
 				},
 				{
-					"text": "answer7",
+					"text": "Jawa Stars On Naboo",
 					"correct": "false"
 				},
 				{
-					"text": "answer8",
+					"text": "Java Script Object Notation",
 					"correct": "true"
 				}
 			]
 		},
 		{
-			"question": "Question3",
+			"question": "How many heading tags are there in HTML",
 			"type":"fillIn",
-			"answer" : "a"
+			"answer" : "6"
 		},
 		{
-			"question": "Question4",
+			"question": "<--1--> What is the tag to create a line break in HTML(Just fill in do not use <>)",
 			"type":"fillIn",
-			"answer" : "a"
+			"answer" : "br"
 		},
 		{
-			"question": "Question6",
+			"question": "<--1--> What is the tag for paragraphs in HTML",
 			"type":"fillIn",
-			"answer" : "a"
+			"answer" : "p"
+		},
+		{
+			"question": "<--1--> What is the tag for an unordered/bullet list in HTML",
+			"type":"fillIn",
+			"answer" : "ul"
 		}
 	]
 }
