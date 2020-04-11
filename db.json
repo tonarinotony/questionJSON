@@ -58,7 +58,7 @@
 			"type":"imageMC",
 			"answers": [{
 					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE1.PNG",
-					"correct": "false"
+					"correct": "true"
 				},
 				{
 					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE2.PNG",
@@ -70,9 +70,14 @@
 				},
 				{
 					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE4.PNG",
-					"correct": "true"
+					"correct": "false"
 				}
 			]
+		},
+		{
+			"question": "Question6",
+			"type":"fillIn",
+			"answer" : "a"
 		}
 	]
 }
