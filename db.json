@@ -284,6 +284,28 @@
 					"correct": "false"
 				}
 			]
+		},
+		{
+			"question": "Is this json formatted correctly?",
+			"type":"mc",
+			"picture": "https://tonarinotony.github.io/questionJSON/question3.PNG",
+			"answers": [{
+					"text": "no there aren't quotations around everything",
+					"correct": "false"
+				},
+				{
+					"text": "no there aren't commas after every element",
+					"correct": "false"
+				},
+				{
+					"text": "all of the above",
+					"correct": "true"
+				},
+				{
+					"text": "yes it is fine",
+					"correct": "false"
+				}
+			]
 		}
 
 	]
