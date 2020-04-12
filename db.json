@@ -326,7 +326,77 @@
 					"correct": "false"
 				}
 			]
-		}
+		},
+		{
+			"question": "What programming language is this",
+			"type":"mc",
+			"help": "This syntax is Java",
+			"picture": "https://tonarinotony.github.io/questionJSON/question4.PNG",
+			"answers": [{
+					"text": "Java",
+					"correct": "true"
+				},
+				{
+					"text": "Python",
+					"correct": "false"
+				},
+				{
+					"text": "C++",
+					"correct": "false"
+				},
+				{
+					"text": "C#",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "What programming language is this",
+			"type":"mc",
+			"help": "This syntax is Python",
+			"picture": "https://tonarinotony.github.io/questionJSON/question5.PNG",
+			"answers": [{
+					"text": "Java",
+					"correct": "false"
+				},
+				{
+					"text": "Python",
+					"correct": "true"
+				},
+				{
+					"text": "C++",
+					"correct": "false"
+				},
+				{
+					"text": "C#",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "What programming language is this",
+			"type":"mc",
+			"help": "This syntax is C++",
+			"picture": "https://tonarinotony.github.io/questionJSON/question6.PNG",
+			"answers": [{
+					"text": "Java",
+					"correct": "false"
+				},
+				{
+					"text": "Python",
+					"correct": "false"
+				},
+				{
+					"text": "C++",
+					"correct": "true"
+				},
+				{
+					"text": "C#",
+					"correct": "false"
+				}
+			]
+		},
+
 
 	]
 }
