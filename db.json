@@ -395,7 +395,221 @@
 					"correct": "false"
 				}
 			]
-		}
+		},
+		{
+			"question": "Which of these is not a way to initiate a variable in Javascript",
+			"type":"mc",
+			"help": "var, const and let are all ways to initiate a variable in Javascript",
+			"picture": "",
+			"answers": [{
+					"text": "var",
+					"correct": "false"
+				},
+				{
+					"text": "const",
+					"correct": "false"
+				},
+				{
+					"text": "int",
+					"correct": "true"
+				},
+				{
+					"text": "let",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which one of these is not a primitive variable in Java",
+			"type":"mc",
+			"help": "String refers to an object therefore is not a primitive type",
+			"picture": "",
+			"answers": [{
+					"text": "int",
+					"correct": "false"
+				},
+				{
+					"text": "String",
+					"correct": "true"
+				},
+				{
+					"text": "char",
+					"correct": "false"
+				},
+				{
+					"text": "double",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which programming paradigm is most closely related to Java",
+			"type":"mc",
+			"help": "String refers to an object therefore is not a primitive type",
+			"picture": "",
+			"answers": [{
+					"text": "Object Oriented Programming",
+					"correct": "true"
+				},
+				{
+					"text": "Procedural Programming",
+					"correct": "false"
+				},
+				{
+					"text": "Functional Programming",
+					"correct": "false"
+				},
+				{
+					"text": "Logic Programming",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which one of these is not a programming language",
+			"type":"mc",
+			"help": "HTML is a Markup language",
+			"picture": "",
+			"answers": [{
+					"text": "Java",
+					"correct": "false"
+				},
+				{
+					"text": "HTML",
+					"correct": "true"
+				},
+				{
+					"text": "Scheme",
+					"correct": "false"
+				},
+				{
+					"text": "Ruby",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Abstract classes are ...",
+			"type":"mc",
+			"help": "Abstract classes are accessed with keyword extends, and cannot have implementation or static and final modifiers. They can have declaration however",
+			"picture": "",
+			"answers": [{
+					"text": "allowed to have implementation",
+					"correct": "false"
+				},
+				{
+					"text": "allowed to have declaration",
+					"correct": "true"
+				},
+				{
+					"text": "allowed to have static modifiers",
+					"correct": "false"
+				},
+				{
+					"text": "accessed using keyword implements",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "What is the primitive type to store True or False values in Java",
+			"help": "boolean is the primitive type",
+			"type":"fillIn",
+			"answer" : "boolean"
+		},
+		{
+			"question": "What is the method converting an object to a String in Java",
+			"help": "toString() is the method",
+			"type":"fillIn",
+			"answer" : "toString()"
+		},
+		{
+			"question": "How do you get the length of an array",
+			"help": "length is a property of arrays you can access, array.length to access",
+			"type":"fillIn",
+			"answer" : "array.length"
+		},
+		{
+			"question": "How do you get the length of an ArrayList",
+			"help": "ArrayList have a size method so to access length you use size()",
+			"type":"fillIn",
+			"answer" : "size()"
+		},
+		{
+			"question": "How do you add to the end of an ArrayList",
+			"help": "ArrayList have an add method so to access length you use add()",
+			"type":"fillIn",
+			"answer" : "add()"
+		},
+		{
+			"question": "Which one of these is proper syntax for creating an Object in Java",
+			"type":"mc",
+			"help": "Object name = new Object(); is the proper syntax",
+			"picture": "",
+			"answers": [{
+					"text": "Object name = new Object();",
+					"correct": "true"
+				},
+				{
+					"text": "name = new Object();",
+					"correct": "false"
+				},
+				{
+					"text": "new Object = name;",
+					"correct": "false"
+				},
+				{
+					"text": "name = Object()",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which one of these is proper syntax for creating an Object in Python",
+			"type":"mc",
+			"help": "name = Object() is the proper syntax",
+			"picture": "",
+			"answers": [{
+					"text": "Object name = new Object();",
+					"correct": "false"
+				},
+				{
+					"text": "name = new Object();",
+					"correct": "false"
+				},
+				{
+					"text": "new Object = name;",
+					"correct": "false"
+				},
+				{
+					"text": "name = Object()",
+					"correct": "true"
+				}
+			]
+		},
+		{
+			"question": "Which one of these is not a valid way to write the String foo'bar in Python",
+			"type":"mc",
+			"help": "Object name = new Object(); is the proper syntax",
+			"picture": "",
+			"answers": [{
+					"text": "\"\"\"foo'bar\"\"\"",
+					"correct": "true"
+				},
+				{
+					"text": "\"foo'bar\"",
+					"correct": "false"
+				},
+				{
+					"text": "'foo\\'bar'",
+					"correct": "false"
+				},
+				{
+					"text": "'foo'bar'",
+					"correct": "true"
+				}
+			]
+		},
 
 
 	]
