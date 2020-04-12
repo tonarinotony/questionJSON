@@ -3,6 +3,7 @@
 		{
 			"question": "Which of these is proper form of INLINE CSS Styling",
 			"type":"imageMC",
+			"help": "inline styling, is when you style directly on the HTML element, Don't use it too often, it isn't very flexible and clutters your code",
 			"answers": [{
 					"text": "https://tonarinotony.github.io/questionJSON/answerSTYLE1.PNG",
 					"correct": "true"
@@ -24,6 +25,7 @@
 		{
 			"question": "What goes in ---1---",
 			"type":"mc",
+			"help": "!DOCTYPE is a document type declaration and !DOCTYPE html informs the browser you will be using HTML5",
 			"picture": "https://tonarinotony.github.io/questionJSON/question1.PNG",
 			"answers": [{
 					"text": "!DOCTYPE html",
@@ -46,6 +48,7 @@
 		{
 			"question": "What does JSON stand for",
 			"type":"mc",
+			"help": "The correct answer is Java Script Object Notation",
 			"picture":"",
 			"answers": [{
 					"text": "Java Script Online Notation",
@@ -67,26 +70,31 @@
 		},
 		{
 			"question": "How many heading tags are there in HTML",
+			"help": "There are 6, 1 being the largest, 6 being the smallest",
 			"type":"fillIn",
 			"answer" : "6"
 		},
 		{
 			"question": "<--1--> What is the tag to create a line break in HTML(Just fill in do not use <>)",
+			"help": "br, or <br>",
 			"type":"fillIn",
 			"answer" : "br"
 		},
 		{
 			"question": "<--1--> What is the tag for paragraphs in HTML",
+			"help": "p, or <p>",
 			"type":"fillIn",
 			"answer" : "p"
 		},
 		{
 			"question": "<--1--> What is the tag for an unordered/bullet list in HTML",
+			"help": "ul or <ul>, <ol> for ordered list, <li> for list elements in your lists",
 			"type":"fillIn",
 			"answer" : "ul"
 		},
 		{
 			"question": "What does CSS stand for",
+			"help": "Casading Style Sheets",
 			"type":"mc",
 			"picture":"",
 			"answers": [{
@@ -109,6 +117,7 @@
 		},
 		{
 			"question": "What does HTML stand for",
+			"help": "HyperText Markup Language, HTML is a Markup Language",
 			"type":"mc",
 			"picture":"",
 			"answers": [{
@@ -132,6 +141,7 @@
 		{
 			"question": "What is used to create templates",
 			"type":"mc",
+			"help": "Handlebars is the template creator for JS and HTML, Bootstrap is for CSS, Flask is for python web developent",
 			"picture":"",
 			"answers": [{
 					"text": "Bootstrap",
@@ -154,6 +164,7 @@
 		{
 			"question": "Which of these is NOT a bootstrap base color",
 			"type":"mc",
+			"help": "Data is not a color, Warning is yellow, Danger is red, Info is teal",
 			"picture":"",
 			"answers": [{
 					"text": "Warning",
@@ -176,6 +187,7 @@
 		{
 			"question": "How many sections is the Bootstrap Grid layout made out of",
 			"type":"mc",
+			"help": "12 sections you can divide up",
 			"picture":"",
 			"answers": [{
 					"text": "12",
@@ -198,6 +210,7 @@
 		{
 			"question": "Which of these symbol is an ID selector in CSS",
 			"type":"mc",
+			"help": "# is used for selecting ID",
 			"picture":"",
 			"answers": [{
 					"text": "'#'",
@@ -220,6 +233,7 @@
 		{
 			"question": "Which of these symbol is an Class selector in CSS",
 			"type":"mc",
+			"help": ". is used to select classes",
 			"picture":"",
 			"answers": [{
 					"text": "'#'",
@@ -242,30 +256,35 @@
 		{
 			"question": "What goes in the place of --4--",
 			"picture": "https://tonarinotony.github.io/questionJSON/question2.PNG",
+			"help": "innerHTML to change the HTML using the template, rendered in render_view",
 			"type":"fillIn",
 			"answer" : "innerHTML"
 		},
 		{
 			"question": "What goes in the place of --2--",
 			"picture": "https://tonarinotony.github.io/questionJSON/question2.PNG",
+			"help": "fetch, grabs the data from the api at the end of the link, returns a promise",
 			"type":"fillIn",
 			"answer" : "fetch"
 		},
 		{
 			"question": "What goes in the place of --3--",
 			"picture": "https://tonarinotony.github.io/questionJSON/question2.PNG",
+			"help": "await, the program pauses and waits for the promise to complete",
 			"type":"fillIn",
 			"answer" : "await"
 		},
 		{
 			"question": "What goes in the place of --1--",
 			"picture": "https://tonarinotony.github.io/questionJSON/question2.PNG",
+			"help": "await, the program pauses and waits for the promise to complete",
 			"type":"fillIn",
 			"answer" : "await"
 		},
 		{
 			"question": "What is the purpose of this function",
 			"type":"mc",
+			"help": "Async allows you to code synchronously while be asynchronous, await waits for promises to complete, fetch retrieves from the api",
 			"picture":"https://tonarinotony.github.io/questionJSON/question2.PNG",
 			"answers": [{
 					"text": "To load some pictures from the database",
@@ -288,6 +307,7 @@
 		{
 			"question": "Is this json formatted correctly?",
 			"type":"mc",
+			"help": "No the json needs quotations around each element and commas separating each element",
 			"picture": "https://tonarinotony.github.io/questionJSON/question3.PNG",
 			"answers": [{
 					"text": "no there aren't quotations around everything",
