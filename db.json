@@ -590,11 +590,11 @@
 		{
 			"question": "Which one of these is not a valid way to write the String foo'bar in Python",
 			"type":"mc",
-			"help": "Object name = new Object(); is the proper syntax",
+			"help": "\\ cancels out the action of the following character, surrounding single quotes with double quotes and vice versa allows you to see the other, triple quotes allow strings to span multiple lines",
 			"picture": "",
 			"answers": [{
 					"text": "\"\"\"foo'bar\"\"\"",
-					"correct": "true"
+					"correct": "false"
 				},
 				{
 					"text": "\"foo'bar\"",
@@ -609,7 +609,101 @@
 					"correct": "true"
 				}
 			]
+		},
+		{
+			"question": "Which of the following is not a Python built-in function",
+			"type":"mc",
+			"help": "Object name = new Object(); is the proper syntax",
+			"picture": "",
+			"answers": [{
+					"text": "diff()",
+					"correct": "true"
+				},
+				{
+					"text": "round()",
+					"correct": "false"
+				},
+				{
+					"text": "repr()",
+					"correct": "false"
+				},
+				{
+					"text": "map())",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which of these is a function defined using Function Declarations in Javascript",
+			"type":"mc",
+			"help": "Object name = new Object(); is the proper syntax",
+			"picture": "",
+			"answers": [{
+					"text": "function print(){console.log('hello')}",
+					"correct": "true"
+				},
+				{
+					"text": "const print = function(){console.log('hello')}",
+					"correct": "false"
+				},
+				{
+					"text": "const print = () => {console.log('hello')}",
+					"correct": "false"
+				},
+				{
+					"text": "const print() => {console.log('hello')}",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which of these is a function defined using Function Expression in Javascript",
+			"type":"mc",
+			"help": "Object name = new Object(); is the proper syntax",
+			"picture": "",
+			"answers": [{
+					"text": "function print(){console.log('hello')}",
+					"correct": "false"
+				},
+				{
+					"text": "const print = function(){console.log('hello')}",
+					"correct": "true"
+				},
+				{
+					"text": "const print = () => {console.log('hello')}",
+					"correct": "false"
+				},
+				{
+					"text": "const print() => {console.log('hello')}",
+					"correct": "false"
+				}
+			]
+		},
+		{
+			"question": "Which of these is a function defined using Function Declarations in Javascript",
+			"type":"mc",
+			"help": "Object name = new Object(); is the proper syntax",
+			"picture": "",
+			"answers": [{
+					"text": "function print(){console.log('hello')}",
+					"correct": "false"
+				},
+				{
+					"text": "const print = function(){console.log('hello')}",
+					"correct": "false"
+				},
+				{
+					"text": "const print = () => {console.log('hello')}",
+					"correct": "true"
+				},
+				{
+					"text": "const print() => {console.log('hello')}",
+					"correct": "false"
+				}
+			]
 		}
+		
+
 
 
 	]
